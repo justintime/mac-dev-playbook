@@ -12,7 +12,7 @@
 
   roles:
     - geerlingguy.homebrew
-    - geerlingguy.dotfiles
+#    - geerlingguy.dotfiles
     - name: geerlingguy.mas
       when: mas_installed_app_ids
 
